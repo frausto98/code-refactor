@@ -1,0 +1,12 @@
+{
+  "name": "code-refactor",
+  "version": "1.0.0",
+  "description": "This is a redo of an assignment, but the HTML is done in react, instead of basic HTML &amp; CSS front end.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
